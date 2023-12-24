@@ -1,0 +1,6 @@
+@Lovelace.UserManagerAPI_HostAddress = http://localhost:5148
+
+GET {{Lovelace.UserManagerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lovelace.WebApp.MVC.props" />
+</Project>
